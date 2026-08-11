@@ -692,7 +692,7 @@ body.menu-open .site-header { backdrop-filter: none; -webkit-backdrop-filter: no
   position: relative;
   border-radius: var(--radius-l);
   overflow: hidden;
-  margin: 0;
+  margin: 0 auto;
   max-width: 900px;
   border: 1px solid var(--line);
   box-shadow: var(--shadow-m);
@@ -808,6 +808,7 @@ body.menu-open .site-header { backdrop-filter: none; -webkit-backdrop-filter: no
 /* Documentenlijst */
 .doc-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; grid-template-columns: 1fr; }
 .doc-list li { margin: 0; }
+.doc-list--one { grid-template-columns: 1fr !important; }
 .doc-list a {
   display: flex;
   align-items: center;

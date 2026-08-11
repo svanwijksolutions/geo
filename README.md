@@ -1,4 +1,4 @@
-# Geo B.V. — demo-website
+# Geo B.V. demo-website
 
 Ongevraagd ontwerpvoorstel voor Geo B.V. (oliehandel en bunkerservice, Barendrecht / Stellendam / Scheveningen).
 

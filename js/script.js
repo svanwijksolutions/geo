@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Geo B.V. — site script
+   Geo B.V. site-script
    header/footer inladen, menu, taalswitcher, tellers, formulier
    ========================================================================== */
 

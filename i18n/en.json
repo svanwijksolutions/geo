@@ -25,6 +25,8 @@
     "info": {
       "avail": "For bunkering we are available 24 hours a day on the numbers of the bunker vessels.",
       "availLabel": "Availability",
+      "certLabel": "Certification",
+      "lead": "For a bunkering, call the number of the harbour where you are berthed.",
       "mailLabel": "E-mail",
       "officeLabel": "Office Barendrecht",
       "schevLabel": "Bunkering Scheveningen",
@@ -264,11 +266,11 @@
       "title": "Contact | Geo B.V. in Barendrecht and Stellendam"
     },
     "diensten": {
-      "desc": "Geo B.V. supplies gas oil and diesel, quality brand lubricants, fuel for agriculture and industry, and ship supplies such as paint, filters and life saving gear.",
+      "desc": "Geo B.V. supplies gas oil, quality brand lubricants, fuel for agriculture and industry, and ship supplies such as paint, filters and life saving gear.",
       "title": "Services | Gas oil, lubricants and ship supplies"
     },
     "index": {
-      "desc": "Geo B.V. supplies gas oil, lubricants and ship supplies with its own bunker vessels from Scheveningen and Stellendam to fishing, ocean shipping, offshore and inland navigation.",
+      "desc": "Geo B.V. supplies gas oil, lubricants and ship supplies with its own bunker vessels from Scheveningen and Stellendam to fishing, ocean shipping and offshore.",
       "title": "Geo B.V. | Oil trader and 24 hour bunker service"
     },
     "kwaliteit": {

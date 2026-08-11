@@ -25,6 +25,8 @@
     "info": {
       "avail": "Voor bunkeringen zijn wij 24 uur per dag bereikbaar via de nummers van de bunkerboten.",
       "availLabel": "Bereikbaarheid",
+      "certLabel": "Certificering",
+      "lead": "Voor een bunkering belt u het nummer van de haven waar u ligt.",
       "mailLabel": "E-mail",
       "officeLabel": "Kantoor Barendrecht",
       "schevLabel": "Bunkering Scheveningen",
@@ -264,15 +266,15 @@
       "title": "Contact | Geo B.V. in Barendrecht en Stellendam"
     },
     "diensten": {
-      "desc": "Geo B.V. levert gasolie en diesel, smeeroliën van A-merken, brandstof voor landbouw en industrie en scheepsbenodigdheden zoals verf, filters en reddingsmiddelen.",
+      "desc": "Geo B.V. levert gasolie, smeeroliën van A-merken, brandstof voor landbouw en industrie en scheepsbenodigdheden zoals verf, filters en reddingsmiddelen.",
       "title": "Diensten | Gasolie, smeerolie en scheepsbenodigdheden"
     },
     "index": {
-      "desc": "Geo B.V. levert gasolie, smeeroliën en scheepsbenodigdheden met eigen bunkerschepen vanuit Scheveningen en Stellendam aan visserij, zeevaart, offshore en binnenvaart.",
+      "desc": "Geo B.V. levert gasolie, smeeroliën en scheepsbenodigdheden met eigen bunkerschepen vanuit Scheveningen en Stellendam aan visserij, zeevaart en offshore.",
       "title": "Geo B.V. | Oliehandel en 24-uurs bunkerservice"
     },
     "kwaliteit": {
-      "desc": "Geo B.V. is ISO 9001:2015 gecertificeerd en gecertificeerd voor erkende hernieuwbare brandstoffen volgens het ISCC EU systeem. Bekijk de certificaten en documenten.",
+      "desc": "Geo B.V. is ISO 9001:2015 gecertificeerd en mag erkende hernieuwbare brandstoffen leveren volgens ISCC EU. Bekijk de certificaten en documenten.",
       "title": "Kwaliteit en certificering | ISO 9001:2015 en ISCC EU"
     },
     "notfound": {

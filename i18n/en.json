@@ -1,0 +1,428 @@
+{
+  "a11y": {
+    "skip": "Skip to content"
+  },
+  "brand": {
+    "sub": "Oil trader and bunker service"
+  },
+  "certs": {
+    "eyebrow": "Documented and checked",
+    "iscc": {
+      "link": "View the certificate",
+      "text": "We are certified to supply recognised renewable fuels under the ISCC EU system, with the administration and controls that go with it.",
+      "title": "Recognised renewable fuels"
+    },
+    "iso": {
+      "link": "View the certificate",
+      "text": "Customer satisfaction, customer requirements and reporting are central to our management system. We improve our processes continuously and meet the requirements of laws and regulations.",
+      "title": "Certified quality management"
+    },
+    "lead": "Geo B.V. works with a certified management system and is allowed to supply recognised renewable fuels.",
+    "title": "Two certifications you can see in black and white"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "info": {
+      "avail": "For bunkering we are available 24 hours a day on the numbers of the bunker vessels.",
+      "availLabel": "Availability",
+      "mailLabel": "E-mail",
+      "officeLabel": "Office Barendrecht",
+      "schevLabel": "Bunkering Scheveningen",
+      "stellendamLabel": "Warehouse and bunkering Stellendam",
+      "title": "Direct contact"
+    },
+    "lead": "For a bunkering, call the number of the harbour where you are berthed. For every other question, the office in Barendrecht and the form below are the quickest route.",
+    "next": {
+      "a": {
+        "text": "Fuel, lubricants and ship supplies, from gas oil to helm seats.",
+        "title": "Our full range"
+      },
+      "b": {
+        "text": "ISO 9001:2015, ISCC EU, product catalogues and safety data sheets in one place.",
+        "title": "Certificates and documents"
+      },
+      "eyebrow": "Where to next",
+      "title": "Where would you like to go?"
+    },
+    "title": "Give us a call or send a message"
+  },
+  "cookie": {
+    "accept": "Agreed",
+    "aria": "Cookie notice",
+    "text": "This website only uses functional storage to remember your language choice. Read more in the <a href=\"privacy.html\">privacy statement</a>."
+  },
+  "cta": {
+    "button": "Send a message",
+    "button2": "See the bunker locations",
+    "callOffice": "Call the office +31 78 677 26 82",
+    "callStellendam": "Bunker vessel Stellendam +31 6 53 48 71 62",
+    "eyebrow": "Need a delivery",
+    "text": "Send a message or call the bunker vessel in your harbour directly. We take care of the rest.",
+    "title": "Tell us where you are and what you need"
+  },
+  "diensten": {
+    "cta": {
+      "text": "Our range is wider than what fits on this page. Call or send an e-mail and we will see what we can arrange for you.",
+      "title": "Did not find what you were looking for?"
+    },
+    "eyebrow": "What we offer",
+    "lead": "From the gas oil in the tank to the paint on deck. Geo B.V. supplies fuel, lubricants and ship supplies at sharp prices, with the service you may expect from a regular supplier.",
+    "ship": {
+      "a": {
+        "text": "Marine paint from International, Sigma and Shipcoat, for hull, deck and superstructure.",
+        "title": "Paint"
+      },
+      "b": {
+        "text": "Rollers, brushes and accessories, so you can do the paint job properly in one go.",
+        "title": "Painting supplies"
+      },
+      "c": {
+        "text": "Cleaning agents, degreasers and cleaning cloths for the engine room and the deck.",
+        "title": "Cleaning and degreasing"
+      },
+      "d": {
+        "text": "Fuel, oil and air filters, among others from Mitsubishi and Fleetguard.",
+        "title": "Filters"
+      },
+      "e": {
+        "text": "Including the well known Secu 12, plus whatever else in life saving and buoyancy gear belongs on board.",
+        "title": "Life saving and buoyancy gear"
+      },
+      "eyebrow": "On deck and in the engine room",
+      "f": {
+        "text": "Sitting comfortably during long watches. We supply helm seats for the bridge.",
+        "title": "Helm seats"
+      },
+      "lead": "What you need to keep sailing is in our warehouse in Stellendam.",
+      "title": "Ship supplies"
+    },
+    "smeer": {
+      "c1": "Marine engines",
+      "c2": "Gearboxes",
+      "c3": "Hydraulics",
+      "c4": "Greases",
+      "eyebrow": "Lubrication",
+      "lead": "We supply quality brand lubricants, among others from Esso-Mobil and Shell. If you are unsure about the right specification for your engine or gearbox, we are happy to think along.",
+      "link": "View product catalogues and safety data sheets",
+      "title": "Lubricants from the better brands"
+    },
+    "title": "Everything that belongs on board",
+    "wal": {
+      "caption": "Our tank trucks operate from Stellendam and Barendrecht",
+      "eyebrow": "Ashore",
+      "link": "Request a delivery",
+      "p1": "We also deliver away from the harbour. Paraffin, gas oil and lubricants go to agricultural and industrial businesses by our own tank trucks. You get the same products and the same availability as our customers on the water, with a fixed contact at the office in Barendrecht.",
+      "title": "Agriculture and industry"
+    },
+    "water": {
+      "a": {
+        "text": "Our bunker vessels are ready in Scheveningen and Stellendam. Day and night, weekends included.",
+        "title": "24 hour bunker service"
+      },
+      "b": {
+        "text": "Fishing, sport fishing, ocean shipping, offshore and inland navigation bunker gas oil with us in the quantity they need.",
+        "title": "Gas oil for professional shipping"
+      },
+      "c": {
+        "text": "In Scheveningen pleasure craft fuel up with us too, without any fuss and at a fair price.",
+        "title": "Diesel for pleasure craft"
+      },
+      "eyebrow": "On the water",
+      "lead": "We sail out from Scheveningen and Stellendam for your delivery. If you are berthed in another harbour, we arrange the bunkering there just as well.",
+      "title": "Bunkering with our own vessels"
+    }
+  },
+  "footer": {
+    "about": "Trader in oil and ship supplies. Gas oil, lubricants and ship supplies for fishing, ocean shipping, offshore and inland navigation, with our own bunker vessels and service 24 hours a day.",
+    "addrDepot": "Deltahaven 6, 3251 LC Stellendam",
+    "addrOffice": "Augustapolder 34, 2992 SR Barendrecht",
+    "addrSchev": "Bunkering harbour of Scheveningen",
+    "addrTitle": "Addresses",
+    "boatScheveningen": "Bunker vessel Scheveningen",
+    "boatStellendam": "Bunker vessel Stellendam",
+    "locTitle": "Reach us",
+    "madeBy": "Website built by",
+    "navTitle": "Pages",
+    "office": "Office Barendrecht",
+    "privacy": "Privacy statement"
+  },
+  "form": {
+    "bericht": "Message",
+    "email": "E-mail address",
+    "lead": "Fill in your details and tell us briefly what you need. After sending, your e-mail program opens with the message ready to go to info@geobv.nl.",
+    "mailSubject": "Enquiry via the website",
+    "naam": "Name",
+    "status": "Your e-mail program opens with a ready made message to info@geobv.nl. Check the message and send it.",
+    "submit": "Send message",
+    "telefoon": "Phone number",
+    "title": "Send us a message"
+  },
+  "hero": {
+    "caption": "Bunker vessel GEO II under way in the harbour of Scheveningen",
+    "ctaPrimary": "Request a delivery",
+    "ctaSecondary": "See what we supply",
+    "eyebrow": "Barendrecht · Stellendam · Scheveningen",
+    "note": "Reachable day and night for bunkering",
+    "sub": "Geo B.V. supplies gas oil and quality brand lubricants to fishing, sport fishing, ocean shipping, offshore and inland navigation. From Scheveningen and Stellendam, and on request in any other harbour.",
+    "title": "Bunkering with our own vessels, <span class=\"accent\">around the clock</span>"
+  },
+  "img": {
+    "certIscc": "ISCC EU certificate from DEKRA stating that Geo B.V. complies with the ISCC EU system for renewable energy",
+    "certIso": "Management system certificate from DNV stating that Geo B.V. complies with the ISO 9001:2015 standard",
+    "harbour": "Aerial photo of the harbour of Scheveningen with quays, business premises and moored vessels",
+    "heroShip": "Bunker vessel GEO II of Geo B.V. sailing past the quay in the harbour of Scheveningen",
+    "shipMoored": "Bunker vessel GEO of Geo B.V. moored alongside a wooden jetty",
+    "truckFront": "Tank truck of Geo B.V. with the company name on the cab, ready to leave",
+    "truckSide": "Tank truck of Geo B.V. from Stellendam seen from the side, with filling hoses at the rear"
+  },
+  "kwal": {
+    "beleid": {
+      "a": {
+        "text": "Our management system is run effectively and economically soundly, with the safety and health of our staff as a fixed starting point. We keep improving our processes.",
+        "title": "Quality and safety"
+      },
+      "b": {
+        "text": "We focus on preventing air, water and soil pollution and on limiting noise and other nuisance. Our drivers follow recognised training to handle their equipment with care for the environment.",
+        "title": "Environment"
+      },
+      "c": {
+        "text": "At Geo B.V. there is no place for corruption, bribery, conflicts of interest or fraud. We comply with the requirements of laws and regulations.",
+        "title": "Doing business honestly"
+      }
+    },
+    "cert": {
+      "eyebrow": "The certificates themselves",
+      "title": "Two certificates, both issued to Geo B.V."
+    },
+    "cta": {
+      "eyebrow": "Questions about certification",
+      "text": "We are happy to send the certificates and safety data sheets to you directly.",
+      "title": "Needed for your own audit or records?"
+    },
+    "doc": {
+      "cat1": "Esso-Mobil product catalogue",
+      "cat2": "Ship supplies product catalogue",
+      "catTitle": "Product catalogues",
+      "eyebrow": "Downloads",
+      "lead": "These documents are hosted on the existing Geo B.V. website and open in a new tab.",
+      "msds1": "MSDS gas oil",
+      "msds2": "MSDS of the Mobil products most commonly prescribed in shipping",
+      "msds3": "MSDS Mobil Velocite oil no. 3",
+      "msds4": "MSDS Shell Alvania EP2",
+      "msdsTitle": "Safety data sheets (MSDS)",
+      "note": "Looking for a safety data sheet of a product that is not listed? Send us a message and we will forward it to you.",
+      "terms1": "General terms and conditions",
+      "termsTitle": "Terms",
+      "title": "Catalogues, safety data sheets and terms"
+    },
+    "eyebrow": "Documented and checked",
+    "iscc": {
+      "text": "We are certified to supply recognised renewable fuels under the ISCC EU system, with the administration and controls that go with it.",
+      "title": "Recognised renewable fuels"
+    },
+    "iso": {
+      "text": "The certificate covers the supply of fuels, lubricants and ship supplies. Customer satisfaction, customer requirements and customer reporting are central to it.",
+      "title": "Certified quality management"
+    },
+    "lead": "Geo B.V. works with a certified management system and is allowed to supply recognised renewable fuels. Below you can see the certificates themselves, plus the documents you may need as a customer.",
+    "missie": {
+      "eyebrow": "Mission and vision",
+      "text": "We build long term relationships with customers and partners at every level and of every size. We achieve that by offering the best available fuels and lubricants, by building on our good name, and by setting ourselves apart with quality at a fair price.",
+      "title": "Long term relationships, fair prices"
+    },
+    "title": "Quality and certification"
+  },
+  "lang": {
+    "aria": "Choose a language",
+    "en": "English",
+    "label": "Language",
+    "nl": "Dutch"
+  },
+  "loc": {
+    "a": {
+      "role": "Office"
+    },
+    "b": {
+      "role": "Warehouse and bunkering"
+    },
+    "boat": "Bunker vessel",
+    "c": {
+      "place": "Harbour of Scheveningen",
+      "role": "Bunkering"
+    },
+    "eyebrow": "Three points of contact",
+    "lead": "Every location has its own number, so you reach the right person straight away.",
+    "more": "All details per location",
+    "title": "Call the place where you are berthed"
+  },
+  "menu": {
+    "aria": "Open menu"
+  },
+  "meta": {
+    "contact": {
+      "desc": "Get in touch with Geo B.V. Office Barendrecht +31 78 677 26 82, bunker vessel Stellendam +31 6 53 48 71 62, bunker vessel Scheveningen +31 6 25 59 35 81.",
+      "title": "Contact | Geo B.V. in Barendrecht and Stellendam"
+    },
+    "diensten": {
+      "desc": "Geo B.V. supplies gas oil and diesel, quality brand lubricants, fuel for agriculture and industry, and ship supplies such as paint, filters and life saving gear.",
+      "title": "Services | Gas oil, lubricants and ship supplies"
+    },
+    "index": {
+      "desc": "Geo B.V. supplies gas oil, lubricants and ship supplies with its own bunker vessels from Scheveningen and Stellendam to fishing, ocean shipping, offshore and inland navigation.",
+      "title": "Geo B.V. | Oil trader and 24 hour bunker service"
+    },
+    "kwaliteit": {
+      "desc": "Geo B.V. is ISO 9001:2015 certified and certified to supply recognised renewable fuels under the ISCC EU system. View the certificates and documents.",
+      "title": "Quality and certification | ISO 9001:2015 and ISCC EU"
+    },
+    "notfound": {
+      "desc": "This Geo B.V. page does not exist or has moved. Go back to the homepage or view what we supply.",
+      "title": "Page not found | Geo B.V."
+    },
+    "privacy": {
+      "desc": "Privacy statement of Geo B.V.: which data we process through this website, why, how long we keep it and which rights you have.",
+      "title": "Privacy statement | Geo B.V."
+    },
+    "vestigingen": {
+      "desc": "Office in Barendrecht, warehouse and bunkering in Stellendam and bunkering in Scheveningen. Every Geo B.V. location with its own phone number.",
+      "title": "Locations | Barendrecht, Stellendam and Scheveningen"
+    }
+  },
+  "nav": {
+    "aria": "Main navigation",
+    "contact": "Contact",
+    "diensten": "Services",
+    "home": "Home",
+    "kwaliteit": "Quality",
+    "vestigingen": "Locations"
+  },
+  "nf": {
+    "home": "Back to the homepage",
+    "text": "The link is no longer valid or the page has moved. Sail back to the homepage or go straight to what we supply.",
+    "title": "This page is not moored at our quay"
+  },
+  "priv": {
+    "emailLabel": "E-mail:",
+    "eyebrow": "Your data",
+    "h1": "Data controller",
+    "h2": "Which data we collect",
+    "h3": "Why we process this data",
+    "h4": "Retention period",
+    "h5": "Cookies and local storage",
+    "h6": "Third parties",
+    "h7": "Your rights",
+    "h8": "Filing a complaint",
+    "l2a": "Name",
+    "l2b": "E-mail address",
+    "l2c": "Phone number, if you fill it in",
+    "l2d": "The content of your message",
+    "l3a": "To respond to your question or request",
+    "l3b": "To arrange a delivery or a quotation with you",
+    "l3c": "To contact you following your message",
+    "l7a": "Access: you can request which data we hold about you",
+    "l7b": "Rectification: you can have incorrect data corrected",
+    "l7c": "Erasure: you can ask us to delete your data",
+    "l7d": "Objection: you can object to the processing",
+    "lead": "How Geo B.V. handles the data you leave behind on this website.",
+    "p2": "Through the contact form on this website you can leave the following data:",
+    "p2b": "The form opens your own e-mail program with a ready made message. Your data is therefore not stored on this website, but reaches us as an ordinary e-mail.",
+    "p4": "We do not keep your data longer than necessary. In most cases that is a maximum of twelve months after the last contact, unless a longer retention period is required by law.",
+    "p5": "This website places no tracking or advertising cookies. We only store your language choice and the fact that you dismissed the cookie notice in the local storage of your own browser. That data never leaves your device.",
+    "p7": "You can send a request to",
+    "p8a": "If you feel that we do not handle your data carefully, please let us know first. You can also file a complaint with the Dutch Data Protection Authority.",
+    "phoneLabel": "Phone:",
+    "tbl1": "Hosting of this website. Your IP address is technically processed in that context.",
+    "tbl2": "Loading of the typefaces. Your IP address is passed on to Google in that context.",
+    "tblA": "Service",
+    "tblB": "Purpose",
+    "title": "Privacy statement",
+    "updated": "August 2026",
+    "updatedLabel": "Last updated:"
+  },
+  "sectors": {
+    "c1": "Fishing",
+    "c2": "Sport fishing",
+    "c3": "Ocean shipping",
+    "c4": "Offshore",
+    "c5": "Inland navigation",
+    "c6": "Pleasure craft in Scheveningen",
+    "c7": "Agriculture",
+    "c8": "Industry",
+    "eyebrow": "Who we serve",
+    "title": "Who bunkers with us"
+  },
+  "services": {
+    "eyebrow": "What we offer",
+    "lead": "One supplier for the gas oil in the tank, the lubricating oil in the engine room and the paint, filters and life saving gear on deck.",
+    "more": "See the full range",
+    "s1": {
+      "text": "Our own bunker vessels are based in Scheveningen and Stellendam. Day and night, weekends included, we come alongside for your delivery.",
+      "title": "24 hour bunker service"
+    },
+    "s2": {
+      "text": "For fishing, sport fishing, ocean shipping, offshore and inland navigation. In Scheveningen we also supply diesel to pleasure craft.",
+      "title": "Gas oil and diesel"
+    },
+    "s3": {
+      "text": "The better brands of lubricating oil, among others from Esso-Mobil and Shell, matched to the engines and gearboxes on board.",
+      "title": "Quality brand lubricants"
+    },
+    "s4": {
+      "text": "Paraffin, gas oil and lubricants for businesses ashore, delivered by our own tank trucks.",
+      "title": "Agriculture and industry"
+    },
+    "s5": {
+      "text": "Paint from International, Sigma and Shipcoat, degreasers and cleaning cloths, filters from Mitsubishi and Fleetguard, life saving gear and helm seats.",
+      "title": "Ship supplies"
+    },
+    "s6": {
+      "text": "Is your vessel berthed somewhere else? We arrange your bunkering there as well.",
+      "title": "Bunkering in other harbours"
+    },
+    "title": "Fuel, lubrication and everything else that belongs on board"
+  },
+  "stats": {
+    "certs": "certifications: ISO 9001:2015 and ISCC EU",
+    "hours": "hours a day bunker service",
+    "locations": "sites and bunker locations"
+  },
+  "story": {
+    "caption": "Bunker vessel GEO moored in the harbour",
+    "eyebrow": "What we stand for",
+    "link": "Read about quality and certification",
+    "p1": "We build long term relationships with customers and partners at every level and of every size. We do that by offering the best available fuels and lubricants at a fair price, and by building on our good name.",
+    "p2": "For us, standing out means quality you notice on board and service you can count on when things have to move quickly.",
+    "title": "Customers who stay, prices that add up"
+  },
+  "vest": {
+    "a": {
+      "role2": "Administration and planning"
+    },
+    "b": {
+      "fax": "Fax: +31 187 49 33 80"
+    },
+    "c": {
+      "extra": "Diesel for pleasure craft as well"
+    },
+    "cards": {
+      "caption": "Loading at the warehouse in Stellendam",
+      "eyebrow": "Points of contact",
+      "title": "All details in one place"
+    },
+    "cta": {
+      "text": "We can arrange your bunkering outside Scheveningen and Stellendam as well. Let us know where you are.",
+      "title": "Berthed in another harbour?"
+    },
+    "eyebrow": "Where to find us",
+    "intro": {
+      "caption": "The harbour of Scheveningen seen from the air",
+      "eyebrow": "Two home harbours",
+      "p1": "Our bunker vessels sail out from these two harbours. That is where the cutters, the sport fishing boats and the vessels of ocean shipping, offshore and inland navigation that bunker with us are berthed.",
+      "p2": "If your vessel lies in another harbour, we arrange the bunkering there too. Get in touch and we will see what is possible.",
+      "title": "Scheveningen and Stellendam"
+    },
+    "lead": "The office is in Barendrecht, the warehouse and bunkering in Stellendam, and our second bunker vessel lies in Scheveningen. Call the number of the place where you are berthed.",
+    "map": "View on the map",
+    "title": "Three places, three direct numbers"
+  }
+}

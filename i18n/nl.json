@@ -1,0 +1,428 @@
+{
+  "a11y": {
+    "skip": "Direct naar de inhoud"
+  },
+  "brand": {
+    "sub": "Oliehandel en bunkerservice"
+  },
+  "certs": {
+    "eyebrow": "Aantoonbaar geregeld",
+    "iscc": {
+      "link": "Bekijk het certificaat",
+      "text": "Wij zijn gecertificeerd voor het leveren van erkende hernieuwbare brandstoffen volgens het ISCC EU systeem, met de bijbehorende administratie en controle.",
+      "title": "Erkende hernieuwbare brandstoffen"
+    },
+    "iso": {
+      "link": "Bekijk het certificaat",
+      "text": "Klanttevredenheid, klanteneisen en rapportage staan centraal in ons managementsysteem. Wij verbeteren onze processen continu en voldoen aan de eisen uit wet- en regelgeving.",
+      "title": "Gecertificeerd kwaliteitsmanagement"
+    },
+    "lead": "Geo B.V. werkt met een gecertificeerd managementsysteem en mag erkende hernieuwbare brandstoffen leveren.",
+    "title": "Twee certificeringen die u zwart op wit terugziet"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "info": {
+      "avail": "Voor bunkeringen zijn wij 24 uur per dag bereikbaar via de nummers van de bunkerboten.",
+      "availLabel": "Bereikbaarheid",
+      "mailLabel": "E-mail",
+      "officeLabel": "Kantoor Barendrecht",
+      "schevLabel": "Bunkering Scheveningen",
+      "stellendamLabel": "Magazijn en bunkering Stellendam",
+      "title": "Direct contact"
+    },
+    "lead": "Voor een bunkering belt u het nummer van de haven waar u ligt. Voor alle andere vragen zijn het kantoor in Barendrecht en het formulier hieronder de snelste weg.",
+    "next": {
+      "a": {
+        "text": "Brandstof, smeermiddelen en scheepsbenodigdheden, van gasolie tot stuurstoelen.",
+        "title": "Ons volledige aanbod"
+      },
+      "b": {
+        "text": "ISO 9001:2015, ISCC EU, productcatalogi en veiligheidsinformatiebladen op een rij.",
+        "title": "Certificaten en documenten"
+      },
+      "eyebrow": "Verder kijken",
+      "title": "Waar wilt u heen?"
+    },
+    "title": "Even bellen of een bericht sturen"
+  },
+  "cookie": {
+    "accept": "Akkoord",
+    "aria": "Cookiemelding",
+    "text": "Deze website gebruikt alleen functionele opslag om uw taalkeuze te onthouden. Lees meer in de <a href=\"privacy.html\">privacyverklaring</a>."
+  },
+  "cta": {
+    "button": "Stuur een bericht",
+    "button2": "Bekijk de bunkerlocaties",
+    "callOffice": "Bel kantoor 078 677 26 82",
+    "callStellendam": "Bunkerboot Stellendam 06 53 48 71 62",
+    "eyebrow": "Levering nodig",
+    "text": "Stuur een bericht of bel rechtstreeks met de bunkerboot in uw haven. Wij regelen de rest.",
+    "title": "Vertel ons waar u ligt en wat u nodig heeft"
+  },
+  "diensten": {
+    "cta": {
+      "text": "Ons assortiment is groter dan wat hier past. Bel of mail gerust, dan kijken wij wat wij voor u kunnen regelen.",
+      "title": "Niet gevonden wat u zoekt?"
+    },
+    "eyebrow": "Ons aanbod",
+    "lead": "Van de gasolie in de tank tot de verf op het dek. Geo B.V. levert brandstof, smeermiddelen en scheepsbenodigdheden tegen scherpe prijzen, met de service die u van een vaste leverancier mag verwachten.",
+    "ship": {
+      "a": {
+        "text": "Scheepsverf van International, Sigma en Shipcoat, voor onderwaterschip, dek en opbouw.",
+        "title": "Verf"
+      },
+      "b": {
+        "text": "Rollers, kwasten en toebehoren, zodat u het schilderwerk in één keer goed kunt aanpakken.",
+        "title": "Verfartikelen"
+      },
+      "c": {
+        "text": "Schoonmaakmiddelen, ontvetters en poetslappen voor de machinekamer en het dek.",
+        "title": "Schoonmaak en ontvetting"
+      },
+      "d": {
+        "text": "Brandstof-, olie- en luchtfilters, onder andere van Mitsubishi en Fleetguard.",
+        "title": "Filters"
+      },
+      "e": {
+        "text": "Onder meer de bekende Secu 12, plus wat er verder aan reddings- en drijfmiddelen aan boord hoort.",
+        "title": "Reddings- en drijfmiddelen"
+      },
+      "eyebrow": "Aan dek en in de machinekamer",
+      "f": {
+        "text": "Comfortabel zitten tijdens lange wachten. Wij leveren stuurstoelen voor de brug.",
+        "title": "Stuurstoelen"
+      },
+      "lead": "Wat u nodig heeft om door te varen, ligt bij ons in het magazijn in Stellendam.",
+      "title": "Scheepsbenodigdheden"
+    },
+    "smeer": {
+      "c1": "Scheepsmotoren",
+      "c2": "Tandwielkasten",
+      "c3": "Hydrauliek",
+      "c4": "Vetten",
+      "eyebrow": "Smering",
+      "lead": "Wij leveren smeeroliën van A-merken, onder andere van Esso-Mobil en Shell. Twijfelt u over de juiste specificatie voor uw motor of tandwielkast, dan denken wij mee.",
+      "link": "Bekijk productcatalogi en veiligheidsinformatiebladen",
+      "title": "Smeeroliën van de betere merken"
+    },
+    "title": "Alles wat er aan boord moet",
+    "wal": {
+      "caption": "Onze tankwagens rijden vanuit Stellendam en Barendrecht",
+      "eyebrow": "Op de wal",
+      "link": "Vraag een levering aan",
+      "p1": "Ook buiten de haven leveren wij. Petroleum, gasolie en smeermiddelen gaan met onze eigen tankwagens naar bedrijven in de landbouw en de industrie. U krijgt dezelfde producten en dezelfde bereikbaarheid als onze klanten op het water, met een vast aanspreekpunt op kantoor in Barendrecht.",
+      "title": "Landbouw en industrie"
+    },
+    "water": {
+      "a": {
+        "text": "Onze bunkerschepen liggen klaar in Scheveningen en Stellendam. Dag en nacht, ook in het weekend.",
+        "title": "24-uurs bunkerservice"
+      },
+      "b": {
+        "text": "Visserij, sportvisserij, zeevaart, offshore en binnenvaart bunkeren bij ons gasolie in de hoeveelheid die zij nodig hebben.",
+        "title": "Gasolie voor de beroepsvaart"
+      },
+      "c": {
+        "text": "In Scheveningen tanken ook pleziervaartuigen bij ons diesel, zonder gedoe en tegen een eerlijke prijs.",
+        "title": "Diesel voor de pleziervaart"
+      },
+      "eyebrow": "Op het water",
+      "lead": "Vanuit Scheveningen en Stellendam varen wij uit voor uw levering. Ligt u in een andere haven, dan verzorgen wij de bunkering daar net zo goed.",
+      "title": "Bunkeren met onze eigen schepen"
+    }
+  },
+  "footer": {
+    "about": "Handel in olie en scheepsbenodigdheden. Gasolie, smeeroliën en scheepsbenodigdheden voor visserij, zeevaart, offshore en binnenvaart, met eigen bunkerschepen en 24 uur per dag service.",
+    "addrDepot": "Deltahaven 6, 3251 LC Stellendam",
+    "addrOffice": "Augustapolder 34, 2992 SR Barendrecht",
+    "addrSchev": "Bunkering haven Scheveningen",
+    "addrTitle": "Adressen",
+    "boatScheveningen": "Bunkerboot Scheveningen",
+    "boatStellendam": "Bunkerboot Stellendam",
+    "locTitle": "Bereikbaar",
+    "madeBy": "Website gemaakt door",
+    "navTitle": "Pagina's",
+    "office": "Kantoor Barendrecht",
+    "privacy": "Privacyverklaring"
+  },
+  "form": {
+    "bericht": "Bericht",
+    "email": "E-mailadres",
+    "lead": "Vul uw gegevens in en vertel kort wat u nodig heeft. Na het versturen opent uw e-mailprogramma met het bericht klaar voor verzending naar info@geobv.nl.",
+    "mailSubject": "Aanvraag via de website",
+    "naam": "Naam",
+    "status": "Uw e-mailprogramma opent met een kant-en-klaar bericht aan info@geobv.nl. Controleer het bericht en verstuur het.",
+    "submit": "Verstuur bericht",
+    "telefoon": "Telefoonnummer",
+    "title": "Stuur ons een bericht"
+  },
+  "hero": {
+    "caption": "Bunkerschip GEO II onderweg in de haven van Scheveningen",
+    "ctaPrimary": "Vraag een levering aan",
+    "ctaSecondary": "Bekijk wat wij leveren",
+    "eyebrow": "Barendrecht · Stellendam · Scheveningen",
+    "note": "Dag en nacht bereikbaar voor bunkeringen",
+    "sub": "Geo B.V. levert gasolie en smeeroliën van de betere merken aan de visserij, sportvisserij, zeevaart, offshore en binnenvaart. Vanuit Scheveningen en Stellendam, en op aanvraag in elke andere haven.",
+    "title": "Bunkeren met eigen schepen, <span class=\"accent\">24 uur per dag</span>"
+  },
+  "img": {
+    "certIscc": "ISCC EU certificaat van DEKRA waarin staat dat Geo B.V. voldoet aan het ISCC EU systeem voor hernieuwbare energie",
+    "certIso": "Managementsysteemcertificaat van DNV waarin staat dat Geo B.V. voldoet aan de norm ISO 9001:2015",
+    "harbour": "Luchtfoto van de haven van Scheveningen met kades, bedrijfspanden en afgemeerde schepen",
+    "heroShip": "Bunkerschip GEO II van Geo B.V. vaart langs de kade in de haven van Scheveningen",
+    "shipMoored": "Bunkerschip GEO van Geo B.V. afgemeerd langs een houten steiger",
+    "truckFront": "Tankwagen van Geo B.V. met de bedrijfsnaam op de cabine, klaar voor vertrek",
+    "truckSide": "Tankwagen van Geo B.V. uit Stellendam gezien vanaf de zijkant, met vulslangen aan de achterzijde"
+  },
+  "kwal": {
+    "beleid": {
+      "a": {
+        "text": "Ons managementsysteem wordt effectief en economisch verantwoord uitgevoerd, met de veiligheid en de gezondheid van onze medewerkers als vast uitgangspunt. Processen verbeteren wij doorlopend.",
+        "title": "Kwaliteit en veiligheid"
+      },
+      "b": {
+        "text": "Wij richten ons op het voorkomen van lucht-, water- en bodemverontreiniging en op het beperken van geluid en andere hinder. Onze chauffeurs volgen erkende training om milieubewust met hun materieel om te gaan.",
+        "title": "Milieu"
+      },
+      "c": {
+        "text": "Bij Geo B.V. is geen plaats voor corruptie, omkoping, belangenverstrengeling of fraude. Wij houden ons aan de eisen uit wet- en regelgeving.",
+        "title": "Eerlijk zakendoen"
+      }
+    },
+    "cert": {
+      "eyebrow": "De certificaten zelf",
+      "title": "Twee certificaten, allebei op naam van Geo B.V."
+    },
+    "cta": {
+      "eyebrow": "Vragen over certificering",
+      "text": "Wij sturen de certificaten en veiligheidsbladen graag rechtstreeks toe.",
+      "title": "Nodig voor uw eigen audit of administratie?"
+    },
+    "doc": {
+      "cat1": "Productcatalogus Esso-Mobil",
+      "cat2": "Productcatalogus scheepsbenodigdheden",
+      "catTitle": "Productcatalogi",
+      "eyebrow": "Downloads",
+      "lead": "Deze documenten staan op de bestaande website van Geo B.V. en openen in een nieuw tabblad.",
+      "msds1": "MSDS gasolie",
+      "msds2": "MSDS van de meest voorgeschreven Mobil-producten in de scheepvaart",
+      "msds3": "MSDS Mobil Velocite oil no. 3",
+      "msds4": "MSDS Shell Alvania EP2",
+      "msdsTitle": "Veiligheidsinformatiebladen (MSDS)",
+      "note": "Zoekt u een veiligheidsinformatieblad van een product dat er niet bij staat? Stuur een bericht, dan sturen wij het u toe.",
+      "terms1": "Algemene voorwaarden",
+      "termsTitle": "Voorwaarden",
+      "title": "Catalogi, veiligheidsbladen en voorwaarden"
+    },
+    "eyebrow": "Aantoonbaar geregeld",
+    "iscc": {
+      "text": "Wij zijn gecertificeerd voor het leveren van erkende hernieuwbare brandstoffen volgens het ISCC EU systeem, met de administratie en controle die daarbij horen.",
+      "title": "Erkende hernieuwbare brandstoffen"
+    },
+    "iso": {
+      "text": "Het certificaat geldt voor het leveren van brandstoffen, smeermiddelen en scheepsbenodigdheden. Klanttevredenheid, klanteneisen en klantenrapportages nemen daarin een centrale plaats in.",
+      "title": "Gecertificeerd kwaliteitsmanagement"
+    },
+    "lead": "Geo B.V. werkt met een gecertificeerd managementsysteem en mag erkende hernieuwbare brandstoffen leveren. Hieronder ziet u de certificaten zelf, plus de documenten die u als klant nodig kunt hebben.",
+    "missie": {
+      "eyebrow": "Missie en visie",
+      "text": "Wij gaan lange termijn relaties aan met klanten en partners op elk niveau en van elke omvang. Dat bereiken wij door de best beschikbare brandstoffen en smeermiddelen aan te bieden, voort te bouwen op onze goede naam, en ons te onderscheiden met kwaliteit tegen een eerlijke prijs.",
+      "title": "Lange termijn relaties, eerlijke prijzen"
+    },
+    "title": "Kwaliteit en certificering"
+  },
+  "lang": {
+    "aria": "Taal kiezen",
+    "en": "Engels",
+    "label": "Taal",
+    "nl": "Nederlands"
+  },
+  "loc": {
+    "a": {
+      "role": "Kantoor"
+    },
+    "b": {
+      "role": "Magazijn en bunkering"
+    },
+    "boat": "Bunkerboot",
+    "c": {
+      "place": "Haven van Scheveningen",
+      "role": "Bunkering"
+    },
+    "eyebrow": "Drie contactpunten",
+    "lead": "Elke locatie heeft een eigen nummer, zodat u meteen de juiste persoon aan de lijn hebt.",
+    "more": "Alle gegevens per vestiging",
+    "title": "Bel de plek waar u ligt"
+  },
+  "menu": {
+    "aria": "Menu openen"
+  },
+  "meta": {
+    "contact": {
+      "desc": "Neem contact op met Geo B.V. Kantoor Barendrecht 078 677 26 82, bunkerboot Stellendam 06 53 48 71 62, bunkerboot Scheveningen 06 25 59 35 81, info@geobv.nl.",
+      "title": "Contact | Geo B.V. in Barendrecht en Stellendam"
+    },
+    "diensten": {
+      "desc": "Geo B.V. levert gasolie en diesel, smeeroliën van A-merken, brandstof voor landbouw en industrie en scheepsbenodigdheden zoals verf, filters en reddingsmiddelen.",
+      "title": "Diensten | Gasolie, smeerolie en scheepsbenodigdheden"
+    },
+    "index": {
+      "desc": "Geo B.V. levert gasolie, smeeroliën en scheepsbenodigdheden met eigen bunkerschepen vanuit Scheveningen en Stellendam aan visserij, zeevaart, offshore en binnenvaart.",
+      "title": "Geo B.V. | Oliehandel en 24-uurs bunkerservice"
+    },
+    "kwaliteit": {
+      "desc": "Geo B.V. is ISO 9001:2015 gecertificeerd en gecertificeerd voor erkende hernieuwbare brandstoffen volgens het ISCC EU systeem. Bekijk de certificaten en documenten.",
+      "title": "Kwaliteit en certificering | ISO 9001:2015 en ISCC EU"
+    },
+    "notfound": {
+      "desc": "Deze pagina van Geo B.V. bestaat niet of is verplaatst. Ga terug naar de homepagina of bekijk het aanbod.",
+      "title": "Pagina niet gevonden | Geo B.V."
+    },
+    "privacy": {
+      "desc": "Privacyverklaring van Geo B.V.: welke gegevens wij via deze website verwerken, waarom, hoe lang wij ze bewaren en welke rechten u heeft.",
+      "title": "Privacyverklaring | Geo B.V."
+    },
+    "vestigingen": {
+      "desc": "Kantoor in Barendrecht, magazijn en bunkering in Stellendam en bunkering in Scheveningen. Elke locatie van Geo B.V. met een eigen telefoonnummer.",
+      "title": "Vestigingen | Barendrecht, Stellendam en Scheveningen"
+    }
+  },
+  "nav": {
+    "aria": "Hoofdnavigatie",
+    "contact": "Contact",
+    "diensten": "Diensten",
+    "home": "Home",
+    "kwaliteit": "Kwaliteit",
+    "vestigingen": "Vestigingen"
+  },
+  "nf": {
+    "home": "Terug naar de homepagina",
+    "text": "De link klopt niet meer of de pagina is verplaatst. Vaar terug naar de homepagina of bekijk direct wat wij leveren.",
+    "title": "Deze pagina ligt niet aan onze kade"
+  },
+  "priv": {
+    "emailLabel": "E-mail:",
+    "eyebrow": "Uw gegevens",
+    "h1": "Verwerkingsverantwoordelijke",
+    "h2": "Welke gegevens wij verzamelen",
+    "h3": "Waarom wij deze gegevens verwerken",
+    "h4": "Bewaartermijn",
+    "h5": "Cookies en lokale opslag",
+    "h6": "Derde partijen",
+    "h7": "Uw rechten",
+    "h8": "Klacht indienen",
+    "l2a": "Naam",
+    "l2b": "E-mailadres",
+    "l2c": "Telefoonnummer, als u dat invult",
+    "l2d": "De inhoud van uw bericht",
+    "l3a": "Om te reageren op uw vraag of aanvraag",
+    "l3b": "Om een levering of prijsopgave met u af te stemmen",
+    "l3c": "Om contact met u op te nemen naar aanleiding van uw bericht",
+    "l7a": "Inzage: u kunt opvragen welke gegevens wij van u hebben",
+    "l7b": "Correctie: u kunt onjuiste gegevens laten aanpassen",
+    "l7c": "Verwijdering: u kunt vragen uw gegevens te wissen",
+    "l7d": "Bezwaar: u kunt bezwaar maken tegen de verwerking",
+    "lead": "Hoe Geo B.V. omgaat met de gegevens die u via deze website achterlaat.",
+    "p2": "Via het contactformulier op deze website kunt u de volgende gegevens achterlaten:",
+    "p2b": "Het formulier opent uw eigen e-mailprogramma met een kant-en-klaar bericht. De gegevens worden dus niet op deze website opgeslagen, maar komen als gewone e-mail bij ons binnen.",
+    "p4": "Wij bewaren uw gegevens niet langer dan nodig is. In de meeste gevallen is dat maximaal twaalf maanden na het laatste contact, tenzij een langere bewaartermijn wettelijk verplicht is.",
+    "p5": "Deze website plaatst geen tracking- of advertentiecookies. Wij bewaren alleen uw taalkeuze en het feit dat u de cookiemelding heeft weggeklikt in de lokale opslag van uw eigen browser. Die gegevens verlaten uw apparaat niet.",
+    "p7": "Een verzoek stuurt u naar",
+    "p8a": "Vindt u dat wij niet zorgvuldig met uw gegevens omgaan, laat het ons dan eerst weten. U kunt ook een klacht indienen bij de Autoriteit Persoonsgegevens.",
+    "phoneLabel": "Telefoon:",
+    "tbl1": "Hosting van deze website. Uw IP-adres wordt daarbij technisch verwerkt.",
+    "tbl2": "Laden van de lettertypen. Uw IP-adres wordt daarbij aan Google doorgegeven.",
+    "tblA": "Dienst",
+    "tblB": "Doel",
+    "title": "Privacyverklaring",
+    "updated": "augustus 2026",
+    "updatedLabel": "Laatst bijgewerkt:"
+  },
+  "sectors": {
+    "c1": "Visserij",
+    "c2": "Sportvisserij",
+    "c3": "Zeevaart",
+    "c4": "Offshore",
+    "c5": "Binnenvaart",
+    "c6": "Pleziervaart in Scheveningen",
+    "c7": "Landbouw",
+    "c8": "Industrie",
+    "eyebrow": "Voor wie",
+    "title": "Wie er bij ons bunkert"
+  },
+  "services": {
+    "eyebrow": "Ons aanbod",
+    "lead": "Eén leverancier voor de gasolie in de tank, de smeerolie in de machinekamer en de verf, filters en reddingsmiddelen aan dek.",
+    "more": "Bekijk het volledige aanbod",
+    "s1": {
+      "text": "Onze eigen bunkerschepen liggen in Scheveningen en Stellendam. Dag en nacht, ook in het weekend, komen wij langszij voor uw levering.",
+      "title": "24-uurs bunkerservice"
+    },
+    "s2": {
+      "text": "Voor visserij, sportvisserij, zeevaart, offshore en binnenvaart. In Scheveningen leveren wij ook diesel aan de pleziervaart.",
+      "title": "Gasolie en diesel"
+    },
+    "s3": {
+      "text": "De betere merken smeerolie, onder andere van Esso-Mobil en Shell, passend bij de motoren en tandwielkasten aan boord.",
+      "title": "Smeeroliën van A-merken"
+    },
+    "s4": {
+      "text": "Petroleum, gasolie en smeermiddelen voor bedrijven op de wal, geleverd met onze eigen tankwagens.",
+      "title": "Landbouw en industrie"
+    },
+    "s5": {
+      "text": "Verf van International, Sigma en Shipcoat, ontvetters en poetslappen, filters van Mitsubishi en Fleetguard, reddingsmiddelen en stuurstoelen.",
+      "title": "Scheepsbenodigdheden"
+    },
+    "s6": {
+      "text": "Ligt uw schip ergens anders aan de kade? Ook daar verzorgen wij de bunkering voor u.",
+      "title": "Bunkering in andere havens"
+    },
+    "title": "Brandstof, smering en alles wat er verder aan boord moet"
+  },
+  "stats": {
+    "certs": "certificeringen: ISO 9001:2015 en ISCC EU",
+    "hours": "uur per dag bunkerservice",
+    "locations": "vestigingen en bunkerlocaties"
+  },
+  "story": {
+    "caption": "Bunkerschip GEO afgemeerd in de haven",
+    "eyebrow": "Waar wij voor staan",
+    "link": "Lees over kwaliteit en certificering",
+    "p1": "Wij gaan lange termijn relaties aan met klanten en partners op elk niveau en van elke omvang. Dat doen wij door de best beschikbare brandstoffen en smeermiddelen aan te bieden tegen een eerlijke prijs, en door voort te bouwen op onze goede naam.",
+    "p2": "Onderscheidend vermogen zit voor ons in kwaliteit die u aan boord merkt, en in service waar u op kunt rekenen als het even snel moet.",
+    "title": "Klanten die blijven, prijzen die kloppen"
+  },
+  "vest": {
+    "a": {
+      "role2": "Administratie en planning"
+    },
+    "b": {
+      "fax": "Fax: 0187 49 33 80"
+    },
+    "c": {
+      "extra": "Ook diesel voor de pleziervaart"
+    },
+    "cards": {
+      "caption": "Laden bij het magazijn in Stellendam",
+      "eyebrow": "Contactpunten",
+      "title": "Alle gegevens op een rij"
+    },
+    "cta": {
+      "text": "Ook buiten Scheveningen en Stellendam kunnen wij uw bunkering verzorgen. Laat weten waar u ligt.",
+      "title": "Ligt u in een andere haven?"
+    },
+    "eyebrow": "Waar u ons vindt",
+    "intro": {
+      "caption": "De haven van Scheveningen vanuit de lucht",
+      "eyebrow": "Twee thuishavens",
+      "p1": "Vanuit deze twee havens varen onze bunkerschepen uit. Daar liggen de kotters, de sportvisboten en de schepen van de zeevaart, de offshore en de binnenvaart die bij ons bunkeren.",
+      "p2": "Ligt uw schip in een andere haven, dan verzorgen wij de bunkering daar ook. Neem contact op en wij kijken wat er mogelijk is.",
+      "title": "Scheveningen en Stellendam"
+    },
+    "lead": "Het kantoor staat in Barendrecht, het magazijn en de bunkering in Stellendam, en in Scheveningen ligt onze tweede bunkerboot. Bel het nummer van de plek waar u ligt.",
+    "map": "Bekijk op de kaart",
+    "title": "Drie plekken, drie directe nummers"
+  }
+}

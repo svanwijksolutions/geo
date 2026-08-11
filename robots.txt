@@ -1,0 +1,3 @@
+# Demonstratieversie, niet bedoeld voor zoekmachines.
+User-agent: *
+Disallow: /

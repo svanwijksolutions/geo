@@ -93,7 +93,7 @@
         </div>
         <div class="stat">
           <span class="stat-num" data-count="2"><span class="value">2</span></span>
-          <span class="stat-label" data-i18n="stats.certs">certificeringen: ISO 9001:2015 en ISCC EU</span>
+          <span class="stat-label" data-i18n="stats.harbours">thuishavens: Scheveningen en Stellendam</span>
         </div>
       </div>
     </div>
@@ -138,7 +138,7 @@
         </article>
 
         <article class="card reveal s1">
-          <div class="card-icon card-icon--red" aria-hidden="true">
+          <div class="card-icon" aria-hidden="true">
             <svg viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 21h19"></path><path d="M4.5 21V9.2l5.6 3.8V9.2l5.6 3.8V4.4h3.8V21"></path><path d="M8 21v-3.6h3.2V21"></path></svg>
           </div>
           <h3 data-i18n="services.s4.title">Landbouw en industrie</h3>
@@ -146,7 +146,7 @@
         </article>
 
         <article class="card reveal s2">
-          <div class="card-icon card-icon--red" aria-hidden="true">
+          <div class="card-icon" aria-hidden="true">
             <svg viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="4.6" r="2.2"></circle><path d="M12 6.8V21"></path><path d="M8.2 10h7.6"></path><path d="M4.4 13.2H2.2a9.8 9.8 0 0 0 19.6 0h-2.2"></path></svg>
           </div>
           <h3 data-i18n="services.s5.title">Scheepsbenodigdheden</h3>
@@ -178,16 +178,26 @@
         <p class="eyebrow" data-i18n="sectors.eyebrow">Voor wie</p>
         <h2 data-i18n="sectors.title">Wie er bij ons bunkert</h2>
       </div>
-      <ul class="chips reveal s1" style="justify-content:center">
-        <li><span class="chip" data-i18n="sectors.c1">Visserij</span></li>
-        <li><span class="chip" data-i18n="sectors.c2">Sportvisserij</span></li>
-        <li><span class="chip" data-i18n="sectors.c3">Zeevaart</span></li>
-        <li><span class="chip" data-i18n="sectors.c4">Offshore</span></li>
-        <li><span class="chip" data-i18n="sectors.c5">Binnenvaart</span></li>
-        <li><span class="chip" data-i18n="sectors.c6">Pleziervaart in Scheveningen</span></li>
-        <li><span class="chip chip--plain" data-i18n="sectors.c7">Landbouw</span></li>
-        <li><span class="chip chip--plain" data-i18n="sectors.c8">Industrie</span></li>
-      </ul>
+      <div class="marquee reveal s1" aria-label="Sectoren die bij ons bunkeren" data-i18n-attr="aria-label:sectors.aria">
+        <div class="marquee-track">
+          <span class="marquee-item" data-i18n="sectors.c1">Visserij</span>
+          <span class="marquee-item" data-i18n="sectors.c2">Sportvisserij</span>
+          <span class="marquee-item" data-i18n="sectors.c3">Zeevaart</span>
+          <span class="marquee-item" data-i18n="sectors.c4">Offshore</span>
+          <span class="marquee-item" data-i18n="sectors.c5">Binnenvaart</span>
+          <span class="marquee-item" data-i18n="sectors.c6">Pleziervaart in Scheveningen</span>
+          <span class="marquee-item" data-i18n="sectors.c7">Landbouw</span>
+          <span class="marquee-item" data-i18n="sectors.c8">Industrie</span>
+          <span class="marquee-item marquee-item--dup" aria-hidden="true" data-i18n="sectors.c1">Visserij</span>
+          <span class="marquee-item marquee-item--dup" aria-hidden="true" data-i18n="sectors.c2">Sportvisserij</span>
+          <span class="marquee-item marquee-item--dup" aria-hidden="true" data-i18n="sectors.c3">Zeevaart</span>
+          <span class="marquee-item marquee-item--dup" aria-hidden="true" data-i18n="sectors.c4">Offshore</span>
+          <span class="marquee-item marquee-item--dup" aria-hidden="true" data-i18n="sectors.c5">Binnenvaart</span>
+          <span class="marquee-item marquee-item--dup" aria-hidden="true" data-i18n="sectors.c6">Pleziervaart in Scheveningen</span>
+          <span class="marquee-item marquee-item--dup" aria-hidden="true" data-i18n="sectors.c7">Landbouw</span>
+          <span class="marquee-item marquee-item--dup" aria-hidden="true" data-i18n="sectors.c8">Industrie</span>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -202,7 +212,7 @@
           <p data-i18n="story.p2">Onderscheidend vermogen zit voor ons in kwaliteit die u aan boord merkt, en in service waar u op kunt rekenen als het even snel moet.</p>
           <p style="margin-top:24px">
             <a class="textlink" href="kwaliteit.html">
-              <span data-i18n="story.link">Lees over kwaliteit en certificering</span>
+              <span data-i18n="story.link">Lees over onze kwaliteit</span>
               <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"></path></svg>
             </a>
           </p>
@@ -218,45 +228,8 @@
     </div>
   </section>
 
-  <!-- Certificering -->
-  <section class="section section--sand">
-    <div class="wrap">
-      <div class="section-head reveal">
-        <p class="eyebrow" data-i18n="certs.eyebrow">Aantoonbaar geregeld</p>
-        <h2 data-i18n="certs.title">Twee certificeringen die u zwart op wit terugziet</h2>
-        <p class="lead" data-i18n="certs.lead">Geo B.V. werkt met een gecertificeerd managementsysteem en mag erkende hernieuwbare brandstoffen leveren.</p>
-      </div>
-
-      <div class="grid grid--2">
-        <article class="card reveal s1">
-          <p class="card-index">ISO 9001:2015</p>
-          <h3 data-i18n="certs.iso.title">Gecertificeerd kwaliteitsmanagement</h3>
-          <p data-i18n="certs.iso.text">Klanttevredenheid, klanteneisen en rapportage staan centraal in ons managementsysteem. Wij verbeteren onze processen continu en voldoen aan de eisen uit wet- en regelgeving.</p>
-          <div class="card-foot">
-            <a class="textlink" href="kwaliteit.html">
-              <span data-i18n="certs.iso.link">Bekijk het certificaat</span>
-              <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"></path></svg>
-            </a>
-          </div>
-        </article>
-
-        <article class="card reveal s2">
-          <p class="card-index">ISCC EU</p>
-          <h3 data-i18n="certs.iscc.title">Erkende hernieuwbare brandstoffen</h3>
-          <p data-i18n="certs.iscc.text">Wij zijn gecertificeerd voor het leveren van erkende hernieuwbare brandstoffen volgens het ISCC EU systeem, met de bijbehorende administratie en controle.</p>
-          <div class="card-foot">
-            <a class="textlink" href="kwaliteit.html">
-              <span data-i18n="certs.iscc.link">Bekijk het certificaat</span>
-              <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"></path></svg>
-            </a>
-          </div>
-        </article>
-      </div>
-    </div>
-  </section>
-
   <!-- Vestigingen -->
-  <section class="section">
+  <section class="section section--sand">
     <div class="wrap">
       <div class="section-head reveal">
         <p class="eyebrow" data-i18n="loc.eyebrow">Drie contactpunten</p>

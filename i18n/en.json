@@ -40,8 +40,8 @@
         "title": "Our full range"
       },
       "b": {
-        "text": "ISO 9001:2015, ISCC EU, product catalogues and safety data sheets in one place.",
-        "title": "Certificates and documents"
+        "text": "Our way of working, our quality policy and the documents you may need as a customer.",
+        "title": "Quality and documents"
       },
       "eyebrow": "Where to next",
       "title": "Where would you like to go?"
@@ -151,10 +151,10 @@
   "form": {
     "bericht": "Message",
     "email": "E-mail address",
-    "lead": "Fill in your details and tell us briefly what you need. After sending, your e-mail program opens with the message ready to go to info@geobv.nl.",
+    "lead": "Fill in your details and tell us briefly what you need. We will get back to you as soon as possible.",
     "mailSubject": "Enquiry via the website",
     "naam": "Name",
-    "status": "Your e-mail program opens with a ready made message to info@geobv.nl. Check the message and send it.",
+    "status": "Thank you for your message. We will get back to you as soon as possible.",
     "submit": "Send message",
     "telefoon": "Phone number",
     "title": "Send us a message"
@@ -327,7 +327,7 @@
     "l7d": "Objection: you can object to the processing",
     "lead": "How Geo B.V. handles the data you leave behind on this website.",
     "p2": "Through the contact form on this website you can leave the following data:",
-    "p2b": "The form opens your own e-mail program with a ready made message. Your data is therefore not stored on this website, but reaches us as an ordinary e-mail.",
+    "p2b": "The data you leave through the contact form is used solely to get in touch with you in response to your message.",
     "p4": "We do not keep your data longer than necessary. In most cases that is a maximum of twelve months after the last contact, unless a longer retention period is required by law.",
     "p5": "This website places no tracking or advertising cookies. We only store your language choice and the fact that you dismissed the cookie notice in the local storage of your own browser. That data never leaves your device.",
     "p7": "You can send a request to",
@@ -350,6 +350,7 @@
     "c6": "Pleasure craft in Scheveningen",
     "c7": "Agriculture",
     "c8": "Industry",
+    "aria": "Sectors that bunker with us",
     "eyebrow": "Who we serve",
     "title": "Who bunkers with us"
   },
@@ -384,14 +385,14 @@
     "title": "Fuel, lubrication and everything else that belongs on board"
   },
   "stats": {
-    "certs": "certifications: ISO 9001:2015 and ISCC EU",
+    "harbours": "home harbours: Scheveningen and Stellendam",
     "hours": "hours a day bunker service",
     "locations": "sites and bunker locations"
   },
   "story": {
     "caption": "Bunker vessel GEO moored in the harbour",
     "eyebrow": "What we stand for",
-    "link": "Read about quality and certification",
+    "link": "Read about our quality",
     "p1": "We build long term relationships with customers and partners at every level and of every size. We do that by offering the best available fuels and lubricants at a fair price, and by building on our good name.",
     "p2": "For us, standing out means quality you notice on board and service you can count on when things have to move quickly.",
     "title": "Customers who stay, prices that add up"

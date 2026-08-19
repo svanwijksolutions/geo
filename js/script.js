@@ -330,7 +330,7 @@
     }
   }
 
-  /* ---------- contactformulier (mailto) ---------- */
+  /* ---------- contactformulier (demo, geen verzending) ---------- */
 
   function setupForm() {
     var form = $('#contact-form');
@@ -340,36 +340,24 @@
     form.addEventListener('submit', function (e) {
       e.preventDefault();
 
+      // Honeypot: een ingevuld verborgen veld betekent een bot, stil negeren.
       var honey = form.querySelector('input[name="bedrijfsnaam-controle"]');
       if (honey && honey.value.trim() !== '') return;
 
-      var naam = (form.querySelector('#naam') || {}).value || '';
-      var email = (form.querySelector('#email') || {}).value || '';
-      var tel = (form.querySelector('#telefoon') || {}).value || '';
-      var bericht = (form.querySelector('#bericht') || {}).value || '';
+      // Clientside-validatie van de verplichte velden blijft actief.
+      if (typeof form.checkValidity === 'function' && !form.checkValidity()) {
+        if (typeof form.reportValidity === 'function') form.reportValidity();
+        return;
+      }
 
-      var dict = dictionaries[currentLang] || {};
-      var subject = lookup(dict, 'form.mailSubject') || 'Aanvraag via de website';
-      var bodyLabels = {
-        naam: lookup(dict, 'form.naam') || 'Naam',
-        email: lookup(dict, 'form.email') || 'E-mailadres',
-        tel: lookup(dict, 'form.telefoon') || 'Telefoonnummer',
-        bericht: lookup(dict, 'form.bericht') || 'Bericht'
-      };
-
-      var body = bodyLabels.naam + ': ' + naam + '\n' +
-                 bodyLabels.email + ': ' + email + '\n' +
-                 bodyLabels.tel + ': ' + tel + '\n\n' +
-                 bodyLabels.bericht + ':\n' + bericht + '\n';
-
-      window.location.href = 'mailto:info@geobv.nl?subject=' +
-        encodeURIComponent(subject + ' (' + naam + ')') +
-        '&body=' + encodeURIComponent(body);
-
+      // In de demo verstuurt het formulier niets. Toon alleen een bevestiging in beeld.
       if (status) {
         status.classList.add('show');
-        status.setAttribute('role', 'status');
+        if (typeof status.scrollIntoView === 'function') {
+          status.scrollIntoView({ block: 'nearest' });
+        }
       }
+      form.reset();
     });
   }
 

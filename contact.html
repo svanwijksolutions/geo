@@ -72,7 +72,7 @@
 
         <div class="form-card reveal s1">
           <h2 data-i18n="form.title">Stuur ons een bericht</h2>
-          <p class="lead" style="margin-bottom:26px" data-i18n="form.lead">Vul uw gegevens in en vertel kort wat u nodig heeft. Na het versturen opent uw e-mailprogramma met het bericht klaar voor verzending naar info@geobv.nl.</p>
+          <p class="lead" style="margin-bottom:26px" data-i18n="form.lead">Vul uw gegevens in en vertel kort wat u nodig heeft. Wij nemen zo snel mogelijk contact met u op.</p>
 
           <form id="contact-form" novalidate>
             <div class="field">
@@ -99,7 +99,7 @@
 
             <div class="form-actions">
               <button type="submit" class="btn btn--primary" data-i18n="form.submit">Verstuur bericht</button>
-              <p class="form-status" id="form-status" data-i18n="form.status">Uw e-mailprogramma opent met een kant-en-klaar bericht aan info@geobv.nl. Controleer het bericht en verstuur het.</p>
+              <p class="form-status" id="form-status" role="status" aria-live="polite" data-i18n="form.status">Bedankt voor uw bericht. Wij nemen zo snel mogelijk contact met u op.</p>
             </div>
           </form>
         </div>
@@ -112,12 +112,19 @@
 
           <div class="info-block">
             <p class="info-label" data-i18n="contact.info.officeLabel">Kantoor Barendrecht</p>
-            <p>Augustapolder 34, 2992 SR Barendrecht<br><a href="tel:+31786772682">078 677 26 82</a></p>
+            <p>
+              <a class="map-link" href="https://www.google.com/maps/search/?api=1&amp;query=Augustapolder+34+2992+SR+Barendrecht" target="_blank" rel="noopener"><svg class="map-pin" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="#ea4335" d="M12 2C7.9 2 4.6 5.3 4.6 9.4c0 5.2 6.4 11.6 6.7 11.9.4.4 1 .4 1.4 0 .3-.3 6.7-6.7 6.7-11.9C19.4 5.3 16.1 2 12 2z"></path><circle cx="12" cy="9.4" r="2.55" fill="#ffffff"></circle></svg><span>Augustapolder 34, 2992 SR Barendrecht</span></a><br>
+              <a href="tel:+31786772682">078 677 26 82</a>
+            </p>
           </div>
 
           <div class="info-block">
             <p class="info-label" data-i18n="contact.info.stellendamLabel">Magazijn en bunkering Stellendam</p>
-            <p>Deltahaven 6, 3251 LC Stellendam<br><a href="tel:+31653487162">06 53 48 71 62</a><br><span data-i18n="vest.b.fax">Fax: 0187 49 33 80</span></p>
+            <p>
+              <a class="map-link" href="https://www.google.com/maps/search/?api=1&amp;query=Deltahaven+6+3251+LC+Stellendam" target="_blank" rel="noopener"><svg class="map-pin" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="#ea4335" d="M12 2C7.9 2 4.6 5.3 4.6 9.4c0 5.2 6.4 11.6 6.7 11.9.4.4 1 .4 1.4 0 .3-.3 6.7-6.7 6.7-11.9C19.4 5.3 16.1 2 12 2z"></path><circle cx="12" cy="9.4" r="2.55" fill="#ffffff"></circle></svg><span>Deltahaven 6, 3251 LC Stellendam</span></a><br>
+              <a href="tel:+31653487162">06 53 48 71 62</a><br>
+              <span data-i18n="vest.b.fax">Fax: 0187 49 33 80</span>
+            </p>
           </div>
 
           <div class="info-block">
@@ -133,14 +140,6 @@
           <div class="info-block">
             <p class="info-label" data-i18n="contact.info.availLabel">Bereikbaarheid</p>
             <p data-i18n="contact.info.avail">Voor bunkeringen zijn wij 24 uur per dag bereikbaar via de nummers van de bunkerboten.</p>
-          </div>
-
-          <div class="info-block">
-            <p class="info-label" data-i18n="contact.info.certLabel">Certificering</p>
-            <ul class="chips chips--light">
-              <li><span class="chip chip--light">ISO 9001:2015</span></li>
-              <li><span class="chip chip--light">ISCC EU</span></li>
-            </ul>
           </div>
 
           <div class="info-block">
@@ -173,11 +172,11 @@
           </div>
         </article>
         <article class="card reveal s2">
-          <h3 data-i18n="contact.next.b.title">Certificaten en documenten</h3>
-          <p data-i18n="contact.next.b.text">ISO 9001:2015, ISCC EU, productcatalogi en veiligheidsinformatiebladen op een rij.</p>
+          <h3 data-i18n="contact.next.b.title">Kwaliteit en documenten</h3>
+          <p data-i18n="contact.next.b.text">Onze werkwijze, ons kwaliteitsbeleid en de documenten die u als klant nodig kunt hebben.</p>
           <div class="card-foot">
             <a class="textlink" href="kwaliteit.html">
-              <span data-i18n="story.link">Lees over kwaliteit en certificering</span>
+              <span data-i18n="story.link">Lees over onze kwaliteit</span>
               <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"></path></svg>
             </a>
           </div>

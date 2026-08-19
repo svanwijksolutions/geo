@@ -40,8 +40,8 @@
         "title": "Ons volledige aanbod"
       },
       "b": {
-        "text": "ISO 9001:2015, ISCC EU, productcatalogi en veiligheidsinformatiebladen op een rij.",
-        "title": "Certificaten en documenten"
+        "text": "Onze werkwijze, ons kwaliteitsbeleid en de documenten die u als klant nodig kunt hebben.",
+        "title": "Kwaliteit en documenten"
       },
       "eyebrow": "Verder kijken",
       "title": "Waar wilt u heen?"
@@ -151,10 +151,10 @@
   "form": {
     "bericht": "Bericht",
     "email": "E-mailadres",
-    "lead": "Vul uw gegevens in en vertel kort wat u nodig heeft. Na het versturen opent uw e-mailprogramma met het bericht klaar voor verzending naar info@geobv.nl.",
+    "lead": "Vul uw gegevens in en vertel kort wat u nodig heeft. Wij nemen zo snel mogelijk contact met u op.",
     "mailSubject": "Aanvraag via de website",
     "naam": "Naam",
-    "status": "Uw e-mailprogramma opent met een kant-en-klaar bericht aan info@geobv.nl. Controleer het bericht en verstuur het.",
+    "status": "Bedankt voor uw bericht. Wij nemen zo snel mogelijk contact met u op.",
     "submit": "Verstuur bericht",
     "telefoon": "Telefoonnummer",
     "title": "Stuur ons een bericht"
@@ -327,7 +327,7 @@
     "l7d": "Bezwaar: u kunt bezwaar maken tegen de verwerking",
     "lead": "Hoe Geo B.V. omgaat met de gegevens die u via deze website achterlaat.",
     "p2": "Via het contactformulier op deze website kunt u de volgende gegevens achterlaten:",
-    "p2b": "Het formulier opent uw eigen e-mailprogramma met een kant-en-klaar bericht. De gegevens worden dus niet op deze website opgeslagen, maar komen als gewone e-mail bij ons binnen.",
+    "p2b": "De gegevens die u via het contactformulier achterlaat, gebruiken wij uitsluitend om contact met u op te nemen naar aanleiding van uw bericht.",
     "p4": "Wij bewaren uw gegevens niet langer dan nodig is. In de meeste gevallen is dat maximaal twaalf maanden na het laatste contact, tenzij een langere bewaartermijn wettelijk verplicht is.",
     "p5": "Deze website plaatst geen tracking- of advertentiecookies. Wij bewaren alleen uw taalkeuze en het feit dat u de cookiemelding heeft weggeklikt in de lokale opslag van uw eigen browser. Die gegevens verlaten uw apparaat niet.",
     "p7": "Een verzoek stuurt u naar",
@@ -350,6 +350,7 @@
     "c6": "Pleziervaart in Scheveningen",
     "c7": "Landbouw",
     "c8": "Industrie",
+    "aria": "Sectoren die bij ons bunkeren",
     "eyebrow": "Voor wie",
     "title": "Wie er bij ons bunkert"
   },
@@ -384,14 +385,14 @@
     "title": "Brandstof, smering en alles wat er verder aan boord moet"
   },
   "stats": {
-    "certs": "certificeringen: ISO 9001:2015 en ISCC EU",
+    "harbours": "thuishavens: Scheveningen en Stellendam",
     "hours": "uur per dag bunkerservice",
     "locations": "vestigingen en bunkerlocaties"
   },
   "story": {
     "caption": "Bunkerschip GEO afgemeerd in de haven",
     "eyebrow": "Waar wij voor staan",
-    "link": "Lees over kwaliteit en certificering",
+    "link": "Lees over onze kwaliteit",
     "p1": "Wij gaan lange termijn relaties aan met klanten en partners op elk niveau en van elke omvang. Dat doen wij door de best beschikbare brandstoffen en smeermiddelen aan te bieden tegen een eerlijke prijs, en door voort te bouwen op onze goede naam.",
     "p2": "Onderscheidend vermogen zit voor ons in kwaliteit die u aan boord merkt, en in service waar u op kunt rekenen als het even snel moet.",
     "title": "Klanten die blijven, prijzen die kloppen"

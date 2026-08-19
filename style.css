@@ -41,6 +41,7 @@
 *, *::before, *::after { box-sizing: border-box; }
 
 html {
+  font-size: 94%;
   scroll-behavior: smooth;
   scroll-padding-top: calc(var(--header-h) + 16px);
   -webkit-text-size-adjust: 100%;
@@ -49,7 +50,7 @@ html {
 body {
   margin: 0;
   font-family: var(--font-body);
-  font-size: 17px;
+  font-size: 1.07rem;
   line-height: 1.68;
   color: var(--ink);
   background: var(--white);
@@ -253,6 +254,7 @@ li { margin-bottom: .4rem; }
   align-items: center;
   gap: 12px;
   text-decoration: none;
+  margin-left: -8px;
   margin-right: auto;
   transition: transform .3s var(--ease);
 }
@@ -664,7 +666,6 @@ body.menu-open .site-header { z-index: 115; backdrop-filter: none; -webkit-backd
   flex: 0 0 auto;
 }
 .card-icon svg { width: 30px; height: 30px; }
-.card-icon--red { background: linear-gradient(150deg, var(--red-600), var(--red-700)); }
 
 .card-index {
   font-family: var(--font-display);
@@ -692,8 +693,48 @@ body.menu-open .site-header { z-index: 115; backdrop-filter: none; -webkit-backd
   color: var(--navy-800);
   box-shadow: var(--shadow-s);
 }
-.chip::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--red-600); flex: 0 0 auto; }
-.chip--plain::before { background: var(--blue-500); }
+
+/* Doorlopende sectorenbalk (marquee) */
+.marquee {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  margin-top: 6px;
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 9%, #000 91%, transparent);
+  mask-image: linear-gradient(90deg, transparent, #000 9%, #000 91%, transparent);
+}
+.marquee-track {
+  display: flex;
+  align-items: center;
+  width: max-content;
+  animation: marquee 34s linear infinite;
+}
+.marquee:hover .marquee-track,
+.marquee:focus-within .marquee-track { animation-play-state: paused; }
+.marquee-item {
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap;
+  padding-left: 24px;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.02rem;
+  letter-spacing: .01em;
+  color: var(--navy-800);
+}
+.marquee-item::after {
+  content: "";
+  width: 7px;
+  height: 7px;
+  margin-left: 24px;
+  border-radius: 50%;
+  background: var(--red-600);
+  flex: 0 0 auto;
+}
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
 
 /* ---------- Beeldband ---------- */
 .band {
@@ -705,7 +746,7 @@ body.menu-open .site-header { z-index: 115; backdrop-filter: none; -webkit-backd
   border: 1px solid var(--line);
   box-shadow: var(--shadow-m);
 }
-.band img { width: 100%; height: 100%; object-fit: cover; object-position: center; aspect-ratio: 2 / 1; }
+.band img { width: 100%; height: auto; display: block; }
 .band figcaption {
   padding: 14px 20px;
   font-size: .9rem;
@@ -723,10 +764,8 @@ body.menu-open .site-header { z-index: 115; backdrop-filter: none; -webkit-backd
 .split-media { margin: 0; }
 .split-media img {
   width: 100%;
+  height: auto;
   border-radius: var(--radius-m);
-  object-fit: cover;
-  object-position: center;
-  aspect-ratio: 480 / 272;
   border: 1px solid var(--line);
   box-shadow: var(--shadow-m);
 }
@@ -960,7 +999,7 @@ body.menu-open .cookiebar { display: none; }
 .cookiebar .btn { flex: 0 0 auto; }
 
 /* ---------- Footer ---------- */
-.site-footer { background: var(--navy-950); color: rgba(255, 255, 255, .74); padding: 66px 0 0; }
+.site-footer { background: var(--navy-950); color: rgba(255, 255, 255, .74); padding: 66px 0 0; font-size: .9rem; line-height: 1.6; }
 .footer-grid {
   display: grid;
   grid-template-columns: 1fr;
@@ -970,10 +1009,10 @@ body.menu-open .cookiebar { display: none; }
 .footer-col h2,
 .footer-col h3 {
   color: var(--white);
-  font-size: 1rem;
-  letter-spacing: .12em;
+  font-size: .82rem;
+  letter-spacing: .14em;
   text-transform: uppercase;
-  margin-bottom: 18px;
+  margin-bottom: 16px;
 }
 .footer-col ul { list-style: none; margin: 0; padding: 0; }
 .footer-col li { margin-bottom: 10px; }
@@ -981,7 +1020,12 @@ body.menu-open .cookiebar { display: none; }
 .footer-col a:hover { color: var(--white); }
 .footer-brand { display: inline-flex; align-items: center; gap: 12px; margin-bottom: 16px; text-decoration: none; }
 .footer-brand .brand-name { font-size: 1.24rem; }
-.footer-about p { font-size: .95rem; color: rgba(255, 255, 255, .66); max-width: 340px; }
+.footer-about p { font-size: .9rem; color: rgba(255, 255, 255, .66); max-width: 340px; }
+
+/* Adres-link naar Google Maps met pin-icoon */
+.map-link { display: inline-flex; align-items: flex-start; gap: 7px; border-bottom: 0 !important; }
+.map-link .map-pin { width: 16px; height: 16px; flex: 0 0 auto; margin-top: 2px; }
+.map-link span { border-bottom: 1px solid currentColor; padding-bottom: 1px; }
 
 .footer-bottom {
   display: flex;
@@ -991,7 +1035,7 @@ body.menu-open .cookiebar { display: none; }
   text-align: center;
   padding: 22px 0 30px;
   border-top: 1px solid rgba(255, 255, 255, .12);
-  font-size: .88rem;
+  font-size: .9rem;
   color: rgba(255, 255, 255, .6);
 }
 .footer-bottom .js-year { font-variant-numeric: tabular-nums; }
@@ -1062,6 +1106,10 @@ body.menu-open .cookiebar { display: none; }
   }
   .anim { animation: none; opacity: 1; transform: none; }
   .js-motion .reveal { opacity: 1; transform: none; }
+  .marquee { -webkit-mask-image: none; mask-image: none; overflow: visible; }
+  .marquee-track { width: 100%; flex-wrap: wrap; justify-content: center; transform: none; }
+  .marquee-item { padding: 6px 16px; }
+  .marquee-item--dup { display: none; }
 }
 
 /* ==========================================================================
@@ -1075,11 +1123,10 @@ body.menu-open .cookiebar { display: none; }
 @media (min-width: 560px) {
   .stats { grid-template-columns: repeat(3, 1fr); }
   .doc-list { grid-template-columns: 1fr; }
-  .footer-bottom { font-size: .9rem; }
 }
 
 @media (min-width: 768px) {
-  body { font-size: 17.5px; }
+  body { font-size: 1.1rem; }
   .section { padding: 96px 0; }
   .section--tight { padding: 66px 0; }
   .grid--2 { grid-template-columns: repeat(2, 1fr); }
@@ -1097,7 +1144,6 @@ body.menu-open .cookiebar { display: none; }
     text-align: left;
     gap: 20px;
   }
-  .band img { aspect-ratio: 900 / 272; }
   .cta-band { padding: 96px 0; }
 }
 
